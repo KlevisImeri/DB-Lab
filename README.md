@@ -10,6 +10,7 @@ Klevis' and Karam's markdown files for the labs.
 - Software Techniques (4th semester)  
 - Data-Driven Systems (5th semester, Software Engineering specialization)  
 - Data-Driven Software Development Lab (6th semester, Software Engineering specialization)
+- Mobile and Web Based Software (5th semester, Professional Subject)
 
 ### When getting a job, it's either a requirement or a strong plus
 
