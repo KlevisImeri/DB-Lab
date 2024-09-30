@@ -58,3 +58,8 @@ The best thing to do is to give a correct answer and explain it clearly, perhaps
 
 - Find the lab report template here: https://www.db.bme.hu/databases/  
 - Submit it on the lab portal, here: https://fecske.db.bme.hu/
+
+## A few remarks
+
+- As your lab instructors, it is **NOT** our job to give you answers to the lab questions. Our duty is to make you think by giving you hints and nudging you in the right direction.  
+- Being physically in the lab is not enough. You'll need to make sure that you are present, participating, and putting effort into solving the questions.
