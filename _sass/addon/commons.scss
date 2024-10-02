@@ -76,9 +76,10 @@ a {
 }
 
 img {
-  max-width: 100%;
+  max-width: 67%;
   height: auto;
   transition: all 0.35s ease-in-out;
+  margin-left: 2.3rem;
 
   .blur & {
     $blur: 20px;
