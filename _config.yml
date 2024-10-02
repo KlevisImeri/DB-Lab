@@ -1,6 +1,3 @@
-url: "https://KlevisImeri.github.io"
-baseurl: ""
-
 title: DB Lab Instructors
 tagline: Posts by the db lab instructors Klevis and Karam
 description: TO DO
@@ -36,6 +33,12 @@ pwa:
 future: true
 paginate: 10
 
+plugins:
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-sitemap
 
 # ------------ The following options are not recommended to be modified ------------------
 
