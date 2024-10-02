@@ -21,10 +21,10 @@ Klevis' and Karam's markdown files for the labs.
 
 ### When getting a job, it's either a requirement or a strong plus
 
-![image](../assets/img/About/req1.png)
-![image](../assets/img/About/req2.png)
-![image](../assets/img/About/req3.png)
-![image](../assets/img/About/req4.png)
+![image](assets/img/About/req1.png)
+![image](assets/img/About/req2.png)
+![image](assets/img/About/req3.png) 
+![image](assets/img/About/req4.png) 
 
 ### Specializing in the future
 
