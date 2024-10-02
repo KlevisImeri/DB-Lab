@@ -24,6 +24,7 @@ Klevis' and Karam's markdown files for the labs.
 ![image](assets/img/About/req1.png)
 ![image](assets/img/About/req2.png)
 ![image](assets/img/About/req3.png) 
+
 ![image](assets/img/About/req4.png) 
 
 ### Specializing in the future
@@ -38,7 +39,7 @@ Klevis' and Karam's markdown files for the labs.
 And so on...  
 
 ## About the Lab Requirements
-![image](../assets/img/About/lab.png)
+![image](assets/img/About/lab.png)
 
 You need to prepare before the labs, entry tests are taken seriously. You can prepare for entry tests using the course materials on https://www.db.bme.hu/databases/
 
@@ -52,7 +53,7 @@ Labs 2, 3, and 4 corresponding to SQL1, SQL2, and SQL3 have the same course mate
 Passing an entry test is only one of the requirements, **it does not mean that you passed the lab.**
 
 To pass the lab, the other requirement is to submit a detailed, clearly formatted lab report answering questions. **This is the most important part.**
-![image](../assets/img/About/labreq.png)
+![image](assets/img/About/labreq.png)
 
 You have to name all your submitted files properly. For example, the PDF in the first lab should be NEPTUN-1-c16.pdf, where you should substitute NEPTUN with your actual NEPTUN code.  
 
